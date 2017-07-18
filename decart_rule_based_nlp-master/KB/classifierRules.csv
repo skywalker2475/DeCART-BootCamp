@@ -1,0 +1,4 @@
+indicate_pneumonia	evidence_of_pneumonia	definite_existence
+indicate_pneumonia	evidence_of_pneumonia	probable_existence
+indicate_pneumonia	evidence_of_pneumonia
+no_indicate_pneumonia
